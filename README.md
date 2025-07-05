@@ -1,7 +1,7 @@
 ## Hi there👋
 
 # About Me
-- 🔭 I’m currently working on https://github.com/DietrichJohannes/AP2024
+- 🔭 I’m currently working on https://github.com/DietrichJohannes/ElectroBuddy
 - 🌱 I’m currently learning basics of C and C++
 - 📫 How to reach me: dietrichjohannes295@gmail.com
 
